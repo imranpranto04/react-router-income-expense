@@ -1,0 +1,17 @@
+.nav_ul li {
+  margin-top: 50px;
+  list-style: none;
+  margin-right: 20px;
+}
+.nav_ul li a {
+  text-decoration: none;
+  background: tomato;
+  padding: 15px;
+  color: aliceblue;
+  border-radius: 20px;
+  font-size: 20px;
+  transition: 0.3s ease;
+}
+.nav_ul li a:hover {
+  background-color: brown !important;
+}
